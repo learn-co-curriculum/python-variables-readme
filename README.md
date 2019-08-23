@@ -7,7 +7,7 @@
 
 > -- Phil Karlton
 
-> "...But ordinary language is all right."
+> "...But ordinary language is all right." 
 
 > Ludwig Wittgenstein
 
@@ -49,7 +49,7 @@ In programming terms, we say that we just declared a variable, `email`, and assi
 
     variable = data
 
-Now that we have assigned a variable `email` to a string, we just type the word `email` to see the string again.
+Now that we have assigned a variable `email` to a string, we just type the word `email` to see the string again. 
 
 
 ```python
@@ -80,7 +80,7 @@ name
 
     <ipython-input-6-9bc0cb2ed6de> in <module>()
     ----> 1 name
-
+    
 
     NameError: name 'name' is not defined
 
@@ -252,4 +252,4 @@ name
 
 In this lesson, we got a taste for what makes computer programs so powerful.  By using variables, we can write programs that know how to combine data.  This can save us time by avoiding boring, repetitive tasks.  We declare and assign a variable with the pattern of `variable = data`, and reassign a variable with the same pattern.  To reference a variable, we simply type the variable's name.  
 
-We also saw that one of the things to pay attention to when working with variables is that they are sometimes different from what we expect.  So we just type the name of the variable, to see what it really is and make any necessary changes.
+We also saw that one of the things to pay attention to when working with variables is that they are sometimes different from what we expect.  So we just type the name of the variable, to see what it really is and make any necessary changes. 
